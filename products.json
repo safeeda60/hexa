@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Mint Nicotine Pouch",
+    "category": "Nicotine Pouches",
+    "price": 5.99,
+    
+    "image": "/images/new/mintpouch.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Berry Blast Nicotine Pouch",
+    "category": "Nicotine Pouches",
+    "price": 6.49,
+    
+    "image": "/images/new/berrypouch.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Cool Ice Nicotine Pouch",
+    "category": "Nicotine Pouches",
+    "price": 6.99,
+    "oldPrice": null,
+    "image": "/images/new/icecoolpouch.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Classic Vape Pen",
+    "category": "Vapes",
+    "price": 29.99,
+    "oldPrice": 39.99,
+    "image": "/images/new/image.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Mango Vape Pod",
+    "category": "Vapes",
+    "price": 24.99,
+    "oldPrice": null,
+    "image": "/images/categories/vapesimg.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Blueberry Shisha Stick",
+    "category": "Shisha Alternatives",
+    "price": 14.99,
+    "oldPrice": 19.99,
+    "image": "/images/categories/hooka.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Herbal Shisha Flavor - Mint",
+    "category": "Shisha Alternatives",
+    "price": 12.49,
+    
+    "image": "/images/new/hooka.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Zero Nicotine Cigarette - Classic",
+    "category": "Nicotine-Free Cigarettes",
+    "price": 9.99,
+    
+    "image": "/images/new/cigblack.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Zero Nicotine Cigarette - Menthol",
+    "category": "Nicotine-Free Cigarettes",
+    "price": 10.49,
+    "oldPrice": null,
+    "image": "/images/new/cigras.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Mini Smart Vending Machine",
+    "category": "Vending Machines",
+    "price": 899.99,
+    "oldPrice": 999.99,
+    "image": "/images/categories/vend1.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Large Touchscreen Vending Machine",
+    "category": "Vending Machines",
+    "price": 2499.99,
+    "oldPrice": 2799.99,
+    "image": "/images/categories/vend2.png"
+  },
+  {
+    "id": 12,
+    "title": "Tropical Mix Nicotine Pouch",
+    "category": "Nicotine Pouches",
+    "price": 6.79,
+    "oldPrice": null,
+    "image": "/images/new/melonpouch.jpg"
+  },
+  {
+    "id": 13,
+    "title": "flavoured pouches",
+    "category": "Nicotine Pouches",
+    "price": 22.99,
+    "oldPrice": 27.99,
+    "image": "/images/products/activewear/citrus.jpg"
+  },
+  {
+    "id": 14,
+    "title": "flavoured pouches",
+    "category": "Nicotine Pouches",
+    "price": 23.49,
+    "oldPrice": null,
+    "image": "/images/products/activewear/mango.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Apple Shisha Stick",
+    "category": "Shisha Alternatives",
+    "price": 13.49,
+    "oldPrice": 17.49,
+    "image": "/images/products/activewear/shishapineaple.jpg"
+  },
+  {
+    "id": 16,
+    "title": "pan elaichi Nicotine-Free Cigarette",
+    "category": "Nicotine-Free Cigarettes",
+    "price": 11.49,
+    "oldPrice": null,
+    "image": "/images/products/activewear/panelaichi.jpg"
+  },
+  {
+    "id": 17,
+    "title": "flavoured cigeretts",
+    "category": "cigeretts",
+    "price": 1199.99,
+    "oldPrice": 1399.99,
+    "image": "/images/products/activewear/cigras.jpg"
+  },
+  {
+    "id": 18,
+    "title": "flavoured cigeretts",
+    "category": "cigeretts",
+    "price": 2899.99,
+    "oldPrice": 3199.99,
+    "image": "/images/products/activewear/ciggarate.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Strawberry Nicotine Pouch",
+    "category": "Nicotine Pouches",
+    "price": 5.79,
+    "oldPrice": 6.99,
+    "image": "/images/products/activewear/strawberry.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Pineapple Shisha Stick",
+    "category": "Shisha Alternatives",
+    "price": 15.49,
+    "oldPrice": null,
+    "image": "/images/products/activewear/shishapineaple.jpg"
+  }
+]
