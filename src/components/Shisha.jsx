@@ -10,7 +10,7 @@ export default function Shisha() {
       title: "apple shisha alternatives",
       price: "$5.99",
       oldPrice: null,
-      image: "/images/categories/hooka.jpg",
+      image: "public/images/categories/hooka.jpg",
       link: "/categories/shisha",
     },
     {
@@ -18,7 +18,7 @@ export default function Shisha() {
       title: "pineapple Shisha Alternatives",
       price: "$6.49",
       oldPrice: "$7.49",
-      image: "/images/products/activewear/shishapineaple.jpg",
+      image: "public/images/products/activewear/shishapineaple.jpg",
       link: "/categories/shisha",
     },
     
