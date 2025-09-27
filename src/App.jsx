@@ -17,10 +17,10 @@ import RegisterPage from "./components/RegisterPage";
 import Layout from "./components/Layout";
 import Products from "./components/Products";
 
-import Wishlist from "./components/Wishlist";
+
 import Vending from "./components/Vending";
 import Pouches from "./components/Pouches";
-import Vapes from "./components/vapes";
+import Vapes from "./components/Vapes";
 import Shisha from "./components/Shisha"
 import Cigarettes from "./components/Cigarettes";
 import Healthcare from "./components/Healthcare";
