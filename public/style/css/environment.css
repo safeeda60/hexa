@@ -1,0 +1,128 @@
+.environmental-page {
+  background-color: #ffffff;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.environmental-section {
+  padding: 80px 20px;
+  background: linear-gradient(to bottom, #e6f4ea, #ffffff);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.heading h1 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+.heading p {
+  font-size: 18px;
+  color: #666666;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  margin-bottom: 60px;
+}
+
+.initiative-card {
+  background-color: #ffffff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow 0.3s ease;
+}
+
+.initiative-card:hover {
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.card-header-top {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.icon-wrapper {
+  padding: 10px;
+  background-color: #d4f0d6;
+  color: #28a745;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.progress-section {
+  margin-top: 15px;
+}
+
+.progress-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #333333;
+  margin-bottom: 5px;
+}
+
+.progress-bar {
+  height: 10px;
+  border-radius: 5px;
+  background-color: #e0e0e0;
+}
+
+.target {
+  margin-top: 8px;
+  font-weight: 600;
+  color: #28a745;
+  font-size: 14px;
+}
+
+.impact-section {
+  background: linear-gradient(to right, #28a745, #007bff);
+  border-radius: 20px;
+  padding: 40px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.impact-section h3 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.impact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 20px;
+}
+
+.stat {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.label {
+  color: rgba(255, 255, 255, 0.8);
+  margin-top: 5px;
+  font-size: 14px;
+}
