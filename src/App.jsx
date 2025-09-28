@@ -29,7 +29,7 @@ import Categories from "./components/Categories";
 import Services from "./components/Services";
 import Education from "./components/Education";
 import Community from "./components/Community";
-
+import Wishlist from "./components/Wishlist";
 import Checkout from "./components/Checkout";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
