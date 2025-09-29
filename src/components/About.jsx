@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import * as WOW from "wowjs/dist/wow";
+
 import { Link } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import "animate.css/animate.min.css";
@@ -7,10 +7,7 @@ import "animate.css/animate.min.css";
 function About() {
   const [activeTab, setActiveTab] = useState(0);
 
-  useEffect(() => {
-    new WOW.WOW({ live: false }).init();
-  }, []);
-
+ 
   const tabs = [
     {
       title: "Introduction",
